@@ -71,14 +71,14 @@ body {
   background-color: #ffffff;
 }
 h1 {
-  width: 850px;
   text-align: center;
   font-size: 3rem;
   font-weight: 800;
   background-color: #222;
   color: white;
-  padding-block: 2rem;
+  padding: 2rem;
   border-radius: 5px;
+  margin-inline: 1rem;
 }
 span {
   color: #03e7dd;
